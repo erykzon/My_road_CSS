@@ -8,8 +8,12 @@
 - Padding
 	- Es el relleno de nuestra caja
   - si falta un valor , CSS asigna el mismo valor del lado opuesto
-  - Se toma el orden de las manesillas del reloj
+  - **Shorthand** : Se toma el orden de las manesillas del reloj
 - Border
 	- Permite definir la linea del "borde" agregando estilos
   - Color , Estilo , Ancho
-  -  
+	  - Color
+	    -  Permite agregar color al borde
+	    -  Tambien se puede utlizar como **Shorthand**
+-  Margen
+	-  
