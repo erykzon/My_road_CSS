@@ -2,3 +2,13 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+.caja{
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 200px;
+	height: 200px;
+	padding: 30 px;
+}
