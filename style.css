@@ -2,19 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 } 
-.caja{
-	background-color: skyblue;
+
+.main{
+	background-color: blueviolet;
 	color: white;
-	font-size: 20px;
-	font-family: Arial, Helvetica, sans-serif;
-	width: 200px;
-	height: 200px;
-	padding:15px;	
-	border-color: white yellow red purple;
-	
-	border-width: 18px;
-	border-style: dotted dashed solid double;
+	margin-bottom: 30px;
 }
-.caja1{
-	margin: 0 auto;
+
+.footer{
+	background-color: steelblue;
+	color: wheat;
+	margin-top: 40px;
 }
