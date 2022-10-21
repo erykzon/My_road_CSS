@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T16:56:01.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="V4ltDWbRHUHANMhU8n02" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T17:04:14.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UZiu3WMZkLwp3_r_au9V" version="20.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1220" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-5" value="Transferencias" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-5" value="Transferencias" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;fontSize=19;strokeColor=#2C3D73;fillColor=#2C3D73;fontColor=#F2F2F2;" vertex="1" parent="1">
           <mxGeometry x="30" width="1420" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-6" value="Usuario" style="swimlane;startSize=20;horizontal=0;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-6" value="Usuario" style="swimlane;startSize=20;horizontal=0;fontSize=17;strokeColor=#2C3D73;fillColor=#6666FF;fontColor=#F2F2F2;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
           <mxGeometry y="30" width="1420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Pk9fZlqnWsdq8cI61R-0-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ingresar a Epicor, y seleccionar el Almacen donde se realizara la Transferencia&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-6">
@@ -28,31 +28,31 @@
         <mxCell id="Pk9fZlqnWsdq8cI61R-0-21" value="Recepcion de la mercancía física y en sistema" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#6666FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-6">
           <mxGeometry x="1270" y="10" width="130" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-9" value="Encargado de devoluciones" style="swimlane;startSize=30;horizontal=0;whiteSpace=wrap;spacingBottom=0;fontStyle=1;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-9" value="Encargado de devoluciones" style="swimlane;startSize=40;horizontal=0;whiteSpace=wrap;spacingBottom=0;fontStyle=1;fontSize=16;strokeColor=#2C3D73;fillColor=#9999FF;fontColor=#000000;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
           <mxGeometry y="190" width="1420" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recibir la solicitud de transferencia por correo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recibir la solicitud de transferencia por correo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
           <mxGeometry x="70" y="42.97" width="140" height="84.06" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Enviar respuesta por correo, confirmando la solicitud requerida.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Enviar respuesta por correo, confirmando la solicitud requerida.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
           <mxGeometry x="780" y="30" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Entrega la mercancía al área de embarques&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Entrega la mercancía al área de embarques&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
           <mxGeometry x="1070" y="25.94" width="150" height="104.06" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-35" value="Realizar el proceso operativo de la transferencia" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#6666FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-35" value="Realizar el proceso operativo de la transferencia" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#9999FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
           <mxGeometry x="290" y="30" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-36" value="Generar &lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;ID&lt;/u&gt;&lt;/b&gt; de empaque" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#6666FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-36" value="Generar &lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;ID&lt;/u&gt;&lt;/b&gt; de empaque" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#9999FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-9">
           <mxGeometry x="570" y="42.97" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-7" value="Embarques" style="swimlane;startSize=20;horizontal=0;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-7" value="Embarques" style="swimlane;startSize=20;horizontal=0;fontSize=16;strokeColor=#2C3D73;labelBackgroundColor=none;fillColor=#A680B8;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-5">
           <mxGeometry y="360" width="1420" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Preparar la mercancía para envío&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#F2F2F2;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-7">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Preparar la mercancía para envío&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;fontColor=#000000;fontSize=14;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-7">
           <mxGeometry x="340" y="16.97" width="140" height="84.06" as="geometry" />
         </mxCell>
-        <mxCell id="Pk9fZlqnWsdq8cI61R-0-38" value="Envió y entrega de la mercancía" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#F2F2F2;fillColor=#6666FF;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-7">
+        <mxCell id="Pk9fZlqnWsdq8cI61R-0-38" value="Envió y entrega de la mercancía" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=#A680B8;" vertex="1" parent="Pk9fZlqnWsdq8cI61R-0-7">
           <mxGeometry x="750" y="12.5" width="130" height="95" as="geometry" />
         </mxCell>
       </root>
